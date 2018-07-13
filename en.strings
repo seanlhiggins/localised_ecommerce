@@ -18,7 +18,7 @@
 "campaign_label" = "Campaign";
 "click_label" = "Click";
 "impression_label" = "Impression";
-"spend_label" = "SPend";
+"spend_label" = "Spend";
 "revenue_label" = "Revenue";
 "average_label" = "Average";
 "ctr_label" = "Click Through Rate";
