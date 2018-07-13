@@ -1,4 +1,5 @@
 view: products {
+  view_label: "products_label"
   sql_table_name: public.products ;;
 
   dimension: id {

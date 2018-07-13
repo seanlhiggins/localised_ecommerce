@@ -90,6 +90,17 @@ view: order_items {
     sql: ${TABLE}.user_id ;;
   }
 
+  measure: total_sale_price {
+    label: "revenue_label"
+    type: sum
+    sql: ${sale_price} ;;
+  }
+  measure: total_gross_margin {
+    label: "gross_margin_label"
+    description: "gross_revenue_description"
+    type: number
+    sql: ${total_sale_price} - ${inventory_items.total_cost} ;;
+  }
   measure: count {
     type: count
     drill_fields: [detail*]

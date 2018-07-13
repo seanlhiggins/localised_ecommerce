@@ -81,6 +81,11 @@ view: inventory_items {
     sql: ${TABLE}.sold_at ;;
   }
 
+  measure: total_cost {
+    type: sum
+    label: "spend_label"
+    sql: ${cost} ;;
+  }
   measure: count {
     type: count
     drill_fields: [id, product_name, products.id, products.name, order_items.count]

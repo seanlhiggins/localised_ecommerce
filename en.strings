@@ -1,5 +1,6 @@
 "whole_model_label" = "E-Commerce";
 "users_view_label" = "Users";
+"products_label"="Products";
 "users_label" = "Users";
 "name" = "Name";
 "first_name_label" = "First Name";
@@ -24,3 +25,4 @@
 "cvr_label" = "Conversion Rate";
 "bounce_label" = "Bounce";
 "gross_margin_label" = "Gross Margin";
+"gross_margin_description" = "Gross Margin = Revenue - Cost/Spend";

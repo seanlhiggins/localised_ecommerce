@@ -1,6 +1,7 @@
 "whole_model_label" = "E-Commerce";
 "users_view_label" = "Utilisateurs";
 "users_label" = "Utilisateurs";
+"products_label"="Produits";
 "name" = "Nom";
 "first_name_label" = "Prenom";
 "city" = "Ville";
@@ -24,3 +25,4 @@
 "cvr_label" = "Taux de Conversion";
 "bounce_label" = "Rebond";
 "gross_margin_label" = "Marge Brute";
+"gross_margin_description" = "Marge Brute = Revenu - Dépense";
