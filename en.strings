@@ -26,3 +26,9 @@
 "bounce_label" = "Bounce";
 "gross_margin_label" = "Gross Margin";
 "gross_margin_description" = "Gross Margin = Revenue - Cost/Spend";
+"sale_price_label" = "Sale Price";
+"status_label" = "Status";
+"delivered_date_group_label" = "Delivered Date";
+"returned_date_group_label" = "Returned Date";
+"shipped_date_group_label" = "Shipped Date";
+"order_items_view_label" = "Order Items";
