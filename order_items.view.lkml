@@ -101,6 +101,7 @@ view: order_items {
     group_label: "returned_date_group_label"
   }
   dimension: sale_price {
+    label: "sale_price_label"
     type: number
     sql: ${TABLE}.sale_price ;;
   }
@@ -139,6 +140,7 @@ view: order_items {
     group_label: "shipped_date_group_label"
   }
   dimension: status {
+    label: "status_label"
     type: string
     sql: ${TABLE}.status ;;
   }
