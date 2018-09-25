@@ -1,11 +1,11 @@
-"whole_model_label" = "E-Commerce";
+"whole_model_label" = "whole_model_label";
 "users_view_label" = "Utilisateurs";
 "users_label" = "Utilisateurs";
 "products_label"="Produits";
 "name" = "Nom";
 "first_name_label" = "Prenom";
 "city" = "Ville";
-"country" = "Pays";
+"country" = "country";
 "age_label" = "Age";
 "age_description" = "Age de la personne";
 "gender_label" = "Sexe";

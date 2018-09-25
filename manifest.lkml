@@ -7,6 +7,6 @@ project_name: "localisation"
 #   project: "name_of_other_project"
 # }
 localization_settings: {
-  localization_level: permissive
   default_locale: en
+  localization_level: permissive
 }
